@@ -1,2 +1,2 @@
 # tp2_laurie_emma_mina
-explication des projets étudiants
+Explication des projets étudiants
