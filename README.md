@@ -1,2 +1,2 @@
 # tp2_laurie_emma_mina
-Explication des projets étudiants
+Rapport sur les projets en création des finissant.e.s TIM
