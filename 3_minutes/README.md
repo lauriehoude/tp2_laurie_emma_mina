@@ -1,1 +1,1 @@
-Explication du projet 3 minutes.
+Explication du projet 3 minutes
