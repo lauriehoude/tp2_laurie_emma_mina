@@ -1,1 +1,1 @@
-medias du projet
+Ce dossier contient les medias du projet
