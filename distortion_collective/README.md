@@ -1,1 +1,1 @@
-Explication du projet Distorsion collective.
+Explication du projet Distorsion collective
