@@ -1,1 +1,1 @@
-Explication du projet Chère Sasha.
+Explication du projet Chère Sasha
