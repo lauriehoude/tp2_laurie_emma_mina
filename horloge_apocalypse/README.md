@@ -1,1 +1,1 @@
-Explication du projet L'horloge de l'apocalypse.
+Explication du projet L'horloge de l'apocalypse
