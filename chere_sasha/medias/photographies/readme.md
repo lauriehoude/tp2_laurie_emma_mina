@@ -1,1 +1,1 @@
-les photos
+Ce dossier contient les photographies
