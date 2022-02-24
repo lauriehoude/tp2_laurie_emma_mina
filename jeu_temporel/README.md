@@ -1,1 +1,1 @@
-Explication du projet Jeu temporel.
+Explication du projet Jeu temporel
