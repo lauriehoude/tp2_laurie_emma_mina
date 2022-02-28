@@ -21,7 +21,7 @@ le schéma de l'installation prévue (insérer le schéma de plantation, avec la
 ![schema_connexion_new](https://user-images.githubusercontent.com/89647723/156032824-ebc4a3e6-b8c9-4469-a8c3-381738fc530a.png)
 -photos utilisées du site https://github.com/Orbital3/Jeu-Temporel/tree/main/docs/preproduction
 
-ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation
+
 Pour ce qui est de l'expérience de l'installation, l'utlisateur va répondre à de nombreuse questions de cultures générales à travers un animateur nommé Gustav. Le but du jeu est de montrer les conséquence de la pollution aux citoyens donc le questionnaire va en réalité montrer la problématique des conséquences de nos actes quotidients. L'utlisiateur va devoir répondre honêtement aux questions et tout dépendant du nombre de bonnes réponses il va soit avoir une fin heureuse ou soit une fin désastreuse.
 
 # Liste de cours nécessaire
