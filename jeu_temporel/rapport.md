@@ -15,8 +15,15 @@ l'installation en cours dans les studios (photos à l'appui)
 ![podium-wide](https://user-images.githubusercontent.com/89647723/156032166-d4dcd082-5dfe-40cf-8727-c7c24f81b5f0.jpeg)
 
 le schéma de l'installation prévue (insérer le schéma de plantation, avec la source)
+
+ # Le schéma de l'isnatllation
+![plan_technique_new](https://user-images.githubusercontent.com/89647723/156032819-d831b10a-0a98-42f1-9176-258e4c783853.png)
+![schema_connexion_new](https://user-images.githubusercontent.com/89647723/156032824-ebc4a3e6-b8c9-4469-a8c3-381738fc530a.png)
+-photos utilisées du site https://github.com/Orbital3/Jeu-Temporel/tree/main/docs/preproduction
+
 ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation
 
+# Liste de cours nécessaire
 - Réalité virtuelle
 - animation 2d
 - javascript
