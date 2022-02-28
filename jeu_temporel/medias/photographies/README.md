@@ -5,3 +5,7 @@ Ce dossier contient les photographies
 
 
 ![podium-wide](https://user-images.githubusercontent.com/89647723/156032166-d4dcd082-5dfe-40cf-8727-c7c24f81b5f0.jpeg)
+
+![image_installation](https://user-images.githubusercontent.com/89647723/156032808-061cf43c-d5a3-4a96-abd2-da07469aa649.jpg)
+![plan_technique_new](https://user-images.githubusercontent.com/89647723/156032819-d831b10a-0a98-42f1-9176-258e4c783853.png)
+![schema_connexion_new](https://user-images.githubusercontent.com/89647723/156032824-ebc4a3e6-b8c9-4469-a8c3-381738fc530a.png)
