@@ -3,4 +3,5 @@ Ce dossier contient les photographies
 
 !![9](https://user-images.githubusercontent.com/89647723/156031980-af4c33f9-663a-4f2d-be45-9ca31c183add.jpg)
 
-[podium-wide](https://user-images.githubusercontent.com/89647723/156031849-992a3789-f0b1-4b6b-b196-eca083588967.jpeg)
+
+![podium-wide](https://user-images.githubusercontent.com/89647723/156032166-d4dcd082-5dfe-40cf-8727-c7c24f81b5f0.jpeg)
