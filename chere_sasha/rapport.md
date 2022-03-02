@@ -6,6 +6,7 @@
 (insérer une image)
 
 **L'installation prévue** 
+
  ![prevu](medias/photographies/sasha_installation_prevue.png)
 
 *Source : Scénarimage - Github du projet Chère Sasha*
