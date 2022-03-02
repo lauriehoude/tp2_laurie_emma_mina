@@ -6,9 +6,10 @@
 (insérer une image)
 
 **L'installation prévue** 
-(insérer une image du schéma de l'installation prévu + source)
 
-*Source : (écrire source ici)*
+ ![prevu](medias/photographies/minutes_installation_prevue.PNG)
+ 
+*Source : Github du projet 3 minutes*
 
 ---
 
@@ -24,7 +25,7 @@
 
 ## Cours incontournables pour créer ce projet
 
-1.
-2.
+1. Conception sonore
+2. Réalité virtuelle
 3.
 
