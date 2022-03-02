@@ -4,13 +4,12 @@
 
 **L'installation en cours** 
 (insérer une image)
- ![cours](medias/photographies/sasha_installation_en_cours.jpg)
 
 **L'installation prévue** 
 (insérer une image du schéma de l'installation prévu + source)
- ![prevu](medias/photographies/sasha_installation_prevue.jpg)
+ ![prevu](medias/photographies/sasha_installation_prevue.png)
 
-*Source : (écrire source ici)*
+*Source : Scénarimage - Github du projet Chère Sasha*
 
 ---
 
