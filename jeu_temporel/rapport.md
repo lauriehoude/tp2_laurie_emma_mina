@@ -21,7 +21,7 @@ Le thème du temps exploité dans le projet **Jeu temporel** est exploité à tr
 **photos utilisées du site** https://github.com/Orbital3/Jeu-Temporel/tree/main/docs/preproduction
 
 
-Pour ce qui est de l'expérience de l'installation, l'utlisateur va répondre à de nombreuse questions de cultures générales à travers un animateur nommé Gustav. Le but du jeu est de montrer les conséquence de la pollution aux citoyens donc le questionnaire va en réalité montrer la problématique des conséquences de nos actes quotidients. L'utlisiateur va devoir répondre honêtement aux questions et tout dépendant du nombre de bonnes réponses il va soit avoir une fin heureuse ou soit une fin désastreuse.
+Pour ce qui est de l'expérience de l'installation, l'utlisateur va répondre à de nombreuse questions de cultures générales à travers un animateur nommé Gustav. Le but du jeu est de montrer les conséquences de la pollution aux citoyens donc le questionnaire va en réalité montrer la problématique des conséquences de nos actes quotidients. L'utlisiateur va devoir répondre honêtement aux questions et tout dépendant du nombre de bonnes réponses il va soit avoir une fin heureuse ou soit une fin désastreuse.
 
 # Liste de cours nécessaire
 - Réalité virtuelle
