@@ -12,7 +12,7 @@
 **L'installation prévue** 
 ![plantation](https://user-images.githubusercontent.com/89647723/157122198-8b33f012-b31c-47b0-b709-0918d09a97dd.png)
 
-*Source : (écrire source ici)*
+*Source : https://github.com/MALT5/L-horloge-de-l-apocalypse*
 
 ---
 
