@@ -3,10 +3,14 @@
 **Réalisé par :** Maxime Sabourin, Louis-Philippe Gravel, Alexis Lacasse, Tristan Girad Montpetit et Maxime De Falco
 
 **L'installation en cours** 
-(insérer une image)
+
+
+![MicrosoftTeams-image](https://user-images.githubusercontent.com/89647723/157122168-dc1900af-ae18-4f51-93e9-4bf25a113a95.png)
+
+
 
 **L'installation prévue** 
-(insérer une image du schéma de l'installation prévu + source)
+![plantation](https://user-images.githubusercontent.com/89647723/157122198-8b33f012-b31c-47b0-b709-0918d09a97dd.png)
 
 *Source : (écrire source ici)*
 
