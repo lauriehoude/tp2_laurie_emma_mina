@@ -21,6 +21,7 @@
 **Comment le thème est-il exploité ?** :
 
 **L'ambiance :**
+Pour ce qui est de l'ambiance, on voyagent à travers divers ambiance autant dramatique que joyeux. En effet, plus le temps avance, plus l'apocalyste approche donc plus les décore sont sombres. Les téléspectateurs vont vivre ou revivre plusieurs événements tragique que l'humanité à du faire face.
 
 **Ce qui est attendu de l'interacteur.trice lors de l'expérience :**
 
@@ -28,6 +29,6 @@
 
 ## Cours incontournables pour créer ce projet
 
-1.
-2.
-3.
+1. Photoshop
+2. Animation 2D
+3. Programation 
