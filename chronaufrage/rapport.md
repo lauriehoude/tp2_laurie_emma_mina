@@ -2,6 +2,7 @@
 Chronaufrage
 
 **Réalisé par :** (Nom des créateurs et créatrices)
+Émilie Fontaine, Maloney Khim, Sounthida Kong, Olivier Lalonde et Rebecca Pilotte
 
 **L'installation en cours** 
 (insérer une image)
@@ -18,6 +19,8 @@ Chronaufrage
 **Comment le thème est-il exploité ?** :
 
 **L'ambiance :**
+Ambiance sonore : Une musique calme, mystérieuse, mélancolique. Des effets sonores d'eau (pluie, rivières, chutes)
+Ambiance générale : monde de fantaisie, de l'imagination, style féerique.
 
 **Ce qui est attendu de l'interacteur.trice lors de l'expérience :**
 
