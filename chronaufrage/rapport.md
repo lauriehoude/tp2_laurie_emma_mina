@@ -1,8 +1,7 @@
 # Titre du projet
 Chronaufrage
 
-**Réalisé par :** (Nom des créateurs et créatrices)
-Émilie Fontaine, Maloney Khim, Sounthida Kong, Olivier Lalonde et Rebecca Pilotte
+**Réalisé par :** Émilie Fontaine, Maloney Khim, Sounthida Kong, Olivier Lalonde et Rebecca Pilotte
 
 **L'installation en cours** 
 (insérer une image)
