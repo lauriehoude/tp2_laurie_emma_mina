@@ -15,12 +15,12 @@
 
 | Installation | Justification |
 | ----------- | ----------- |
-| Chère Sasha | Je crois que je vais pouvoir ressentir les même émotions que ce que Sasha ressent, car je serai dans sa chambre à intéragir avec ses choses en même temps d'écouter son histoire. |
+| Chère Sasha | Je crois que je vais ressentir de l'empathie envers Sasha, car je serai dans sa chambre à intéragir avec ses choses en même temps d'écouter son histoire. |
 | 3 minutes | Je crois que je vais ressentir une différence dans le temps malgré que les deux situations durent le même temps, car ceux-ci nous permet d'expérimenter deux situations complètement opposées. |
-| Jeu temporel | Je crois que je vais me sentir comme dans une émission où l'on répond à des questions. |
+| Jeu temporel | Je crois que je vais ressentir de la pression, car c'est comme si j'étais dans un émission où l'on répond à des questions devant un public. |
 | Chronaufrage | Je crois ressentir un sentiment de contrôle, car si je décide de m'avancer, je vais stresser le personnage dans les tableaux. Au contraire, si je décide de reculer, le personnage se sentira apaisé. |
-| L'horloge de l'apocalypse | Je crois que je vais ressentir l'immersion de l'expérience grace à la musique et au projection sur les murs. |
-| Distortion collective | Je crois que je vais pouvoir ressentir ce que l'étudiant vit, car je vais pouvoir voir sa perspective grace à la réalité virtuelle. |
+| L'horloge de l'apocalypse | Je crois que je vais ressentir un sentiment de danger puisque l'on se rapproche de la fin du monde et grace à la musique et au projection sur les murs je serai immersé dans l'expérience. |
+| Distortion collective | Je crois que je vais ressentir l'isolement que l'étudiant ressent, car je vais pouvoir voir sa perspective grace à la réalité virtuelle. |
 
 ##  Le rôle que je ferait dans un tel projet, lorsque je serai en 3e année, avec justification
 
