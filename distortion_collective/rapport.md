@@ -1,15 +1,12 @@
 # Titre du projet
 Distortion collective
 
-**Réalisé par :** (Nom des créateurs et créatrices)
-
-William Dubois et Ghislain Lacombe
+**Réalisé par :** William Dubois et Ghislain Lacombe
 
 **L'installation en cours** 
 (insérer une image)
 
 **L'installation prévue** 
-(insérer une image du schéma de l'installation prévu + source)
 
 Plan du projet
 ![planV2](https://user-images.githubusercontent.com/89608228/157504106-2c2d8853-afc8-4bb7-905f-4a6e6a01a07b.png)
@@ -35,6 +32,7 @@ Le projet est présente un élève qui fait des ours en ligne, en plein milieu d
 Comme ambiance  générale, on se trouve dans une maison normale. La chambre de l'adolescent est en désordre. Les autres pièces de la maison comme la cuisine et le salon sont assez pleines, rien d'extraordinaires. De plus, au début du projet on retrouve une musique plus relaxante et vers la fin, on retrouve une musique plus stressante.  
 
 **Ce qui est attendu de l'interacteur.trice lors de l'expérience :**
+
 L'interacteur.trice devra réfléchir aux conséquences que la pandémie, l'isolement et les cours en ligne ont sur la santé mentale des jeunes. Par exemple : difficultés sociales et scolaires.
 
 ---
