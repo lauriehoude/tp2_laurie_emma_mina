@@ -18,11 +18,17 @@
 
 ## Thème : Le temps
 
-**Comment le thème est-il exploité ?** : Le thème est exploité en comparant deux situations qui durent trois minutes. Malgré qu'elles durent le même temps, notre notion du temps est différente lorsque l'on vit différentes situations.
+**Comment le thème est-il exploité ?** : 
 
-**L'ambiance :** Il y a une ambiance joyeuse ainsi qu'une ambiance angoissante.
+Le thème est exploité en comparant deux situations qui durent trois minutes. Malgré qu'elles durent le même temps, notre notion du temps est différente lorsque l'on vit différentes situations.
 
-**Ce qui est attendu de l'interacteur.trice lors de l'expérience :**  Il est attendu que l'interacteur.trice expérience la première situation avec énergie en essayant de jouer au ballon chasseur et lorsque l'on s'amuse, le temps semble s'écouler plus rapidement. Par la suite, en allant dans la deuxième situation étant dans un endroit sombre et clos, l'interacteur.trice ressent un sentiment d'angoisse ainsi que de malaise.
+**L'ambiance :** 
+
+Il y a une ambiance joyeuse ainsi qu'une ambiance angoissante.
+
+**Ce qui est attendu de l'interacteur.trice lors de l'expérience :**  
+
+Il est attendu que l'interacteur.trice expérience la première situation avec énergie en essayant de jouer au ballon chasseur et lorsque l'on s'amuse, le temps semble s'écouler plus rapidement. Par la suite, en allant dans la deuxième situation étant dans un endroit sombre et clos, l'interacteur.trice ressent un sentiment d'angoisse ainsi que de malaise.
 
 ---
 
