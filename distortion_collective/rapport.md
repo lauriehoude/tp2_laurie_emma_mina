@@ -32,7 +32,7 @@ Le projet est présente un élève qui fait des ours en ligne, en plein milieu d
 
 **L'ambiance :**
 
-Comme ambiance  générale, on se trouve dans une maison normale. La chambre de l'adolescent est en désordre. Les autres pièces de la maison comme la cuisine et le salon sont assez pleines, rien d'extraordinaires. De plus, au début du projet on retrouve une musique 
+Comme ambiance  générale, on se trouve dans une maison normale. La chambre de l'adolescent est en désordre. Les autres pièces de la maison comme la cuisine et le salon sont assez pleines, rien d'extraordinaires. De plus, au début du projet on retrouve une musique plus relaxante et vers la fin, on retrouve une musique plus stressante.  
 
 **Ce qui est attendu de l'interacteur.trice lors de l'expérience :**
 L'interacteur.trice devra réfléchir aux conséquences que la pandémie, l'isolement et les cours en ligne ont sur la santé mentale des jeunes. Par exemple : difficultés sociales et scolaires.
