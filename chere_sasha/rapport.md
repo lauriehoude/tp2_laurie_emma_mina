@@ -3,7 +3,8 @@
 **Réalisé par :** Trish Nguyen, Angelina De Silva Jeca, Karine Cormier et Sabrina Kayani
 
 **L'installation en cours** 
-(insérer une image)
+
+ ![cours](medias/photographies/sasha_installation_cours.png)
 
 **L'installation prévue** 
 
