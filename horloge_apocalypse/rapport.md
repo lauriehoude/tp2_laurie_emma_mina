@@ -2,6 +2,7 @@
 
 **Réalisé par :** Maxime Sabourin, Louis-Philippe Gravel, Alexis Lacasse, Tristan Girad Montpetit et Maxime De Falco
 
+
 **L'installation en cours** 
 
 
@@ -19,9 +20,11 @@
 ## Thème : Le temps
 
 **Comment le thème est-il exploité ?** :
+Le thème du temps est exploité à travers une apocalipse. En effet, les créateurs ont voulus faire vivre des émotions aux spectateurs .
+Les téléspectateurs vont vivre ou revivre plusieurs événements tragique que l'humanité à du faire face.
 
 **L'ambiance :**
-Pour ce qui est de l'ambiance, on voyagent à travers divers ambiance autant dramatique que joyeux. En effet, plus le temps avance, plus l'apocalyste approche donc plus les décore sont sombres. Les téléspectateurs vont vivre ou revivre plusieurs événements tragique que l'humanité à du faire face.
+Pour ce qui est de l'ambiance, on voyagent à travers divers ambiance autant dramatique que joyeux. En effet, plus le temps avance, plus l'apocalyste approche donc plus les décore sont sombres. 
 
 **Ce qui est attendu de l'interacteur.trice lors de l'expérience :**
 
