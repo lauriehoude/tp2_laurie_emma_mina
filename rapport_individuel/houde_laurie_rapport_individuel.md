@@ -15,11 +15,11 @@
 
 | Installation | Justification |
 | ----------- | ----------- |
-| Chère Sasha | Justification |
-| 3 minutes | Justification |
-| Jeu temporel | Justification |
-| Chronaufrage | Justification |
-| L'horloge de l'apocalypse | Justification |
+| Chère Sasha | Dans l'installation de Sasha, je crois ressentir les mêmes émotions et énergies que la femme ressent, car le fait qu'on ayons un accès privilégier à sa chambre nous donne l'impression d'être avec elle. |
+| L'horloge de l'apocalypse| Dans cette installation, nous sommes censé ressentir de la culpabilité et de la tristesse face à la fin du monde dû à notre innoncence face à la gravité des enjeux que nous traversons en ce moment même |
+| Chronaufrage  | Dans l'installation de chronaufrage, selon moi, tu es supposé ressentir un sentiment d'impuissance, car tu désires aidé la jeune fille, mais tu n'es pas capable.   |
+| Jeu temporel |Dans cette installation, nous sommes supposé ressentir du stresse, car tu reponds à un questionnaire. |
+|  3 minutes  | Justification |
 | Distortion collective | Justification |
 
 ##  Le rôle que je ferait dans un tel projet, lorsque je serai en 3e année, avec justification
