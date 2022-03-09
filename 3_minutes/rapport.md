@@ -3,7 +3,8 @@
 **Réalisé par :** Naoufal Bensaiad, Jérémie Lévesque et Samuel Poulin
 
 **L'installation en cours** 
-(insérer une image)
+
+ ![cours](medias/photographies/minutes_installation_cours.png)
 
 **L'installation prévue** 
 
@@ -15,11 +16,11 @@
 
 ## Thème : Le temps
 
-**Comment le thème est-il exploité ?** :
+**Comment le thème est-il exploité ?** : Le thème est exploité en comparant deux situations qui durent trois minutes. Malgré qu'elles durent le même temps, notre notion du temps est différente lorsque l'on vit différentes situations.
 
-**L'ambiance :**
+**L'ambiance :** Il y a un contraste entre une ambiance légère et une ambiance angoissante.
 
-**Ce qui est attendu de l'interacteur.trice lors de l'expérience :**
+**Ce qui est attendu de l'interacteur.trice lors de l'expérience :** 
 
 ---
 
