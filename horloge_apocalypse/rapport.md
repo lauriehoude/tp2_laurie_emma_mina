@@ -20,15 +20,17 @@
 ## Thème : Le temps
 
 **Comment le thème est-il exploité ?** :
-Le thème du temps est exploité à travers une apocalipse. En effet, les créateurs ont voulus faire vivre des émotions aux spectateurs .
-Les téléspectateurs vont vivre ou revivre plusieurs événements tragique que l'humanité à du faire face.
+Le thème du temps est exploité à travers une apocalypse. En effet, les créateurs ont voulus faire vivre des émotions aux spectateurs avec le bruits des aiguilles de l'horloge et les nombreuse projections de paysages.
 
 **L'ambiance :**
-Pour ce qui est de l'ambiance, on voyagent à travers divers ambiance autant dramatique que joyeux. En effet, plus le temps avance, plus l'apocalyste approche donc plus les décore sont sombres. 
+Pour ce qui est de l'ambiance, on voyagent à travers divers ambiance autant dramatique que joyeux. En effet, plus le temps avance, plus l'apocalypse approche donc plus les décore sont sombres. 
 
 **Ce qui est attendu de l'interacteur.trice lors de l'expérience :**
 
 ---
+Les créateurs désirent faire vivre ou revivre aux spectateurs plusieurs événements tragiques que l'humanité à du faire face au fils des années.
+De plus, ce qui est très intéressant de cette oeuvre, c'est que le visiteur participe directement à l'installation avec l'horloge de l'apocalypse. 
+En effet, l'horloge est programmé à 11 h 58 et il reste deux minutes avant la fin du monde. L'utilisateur va être porté à bouger les aiguilles de l'horloge et la ligne du temps pour changer la projection réprésentant un paysage.  
 
 ## Cours incontournables pour créer ce projet
 
