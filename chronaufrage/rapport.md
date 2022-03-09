@@ -35,14 +35,17 @@ Plan
 ## Thème : Le temps
 
 **Comment le thème est-il exploité ?** :
+
 Le projet Chronaufrage démontre la pression mise par la société à toujours être plus productif. Chronaufrage veut montrer l'importance de prendre une pause pour relaxer et pour prendre du temps pour soi-même.
 
 
 **L'ambiance :**
+
 Ambiance sonore : Une musique calme, mystérieuse, mélancolique. Des effets sonores d'eau (pluie, rivières, chutes)
 Ambiance générale : monde de fantaisie, de l'imagination, style féerique.
 
 **Ce qui est attendu de l'interacteur.trice lors de l'expérience :**
+
 Comprendre les impacts négatifs de la société sur quelqu'un.
 
 ---
