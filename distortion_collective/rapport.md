@@ -2,6 +2,7 @@
 Distortion collective
 
 **Réalisé par :** (Nom des créateurs et créatrices)
+William Dubois et Ghislain Lacombe
 
 **L'installation en cours** 
 (insérer une image)
