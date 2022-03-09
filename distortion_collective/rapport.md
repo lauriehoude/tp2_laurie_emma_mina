@@ -1,5 +1,4 @@
-# Titre du projet
-Distortion collective
+# Distortion collective
 
 **Réalisé par :** William Dubois et Ghislain Lacombe
 
