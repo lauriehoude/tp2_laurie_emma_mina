@@ -4,11 +4,16 @@ Distortion collective
 **Réalisé par :** William Dubois et Ghislain Lacombe
 
 **L'installation en cours** 
-(insérer une image)
+![journal-collectif-3](https://user-images.githubusercontent.com/89608228/157522105-2912aba5-7b27-43c3-88ed-c58f9a99469e.png)
+![3](https://user-images.githubusercontent.com/89608228/157522169-c6449a31-c234-4052-b069-be5e93385309.jpg)
+
+*Source : https://tim-montmorency.com/2022/projets/Distorsion-collective/docs/web/preproduction.html *
+
 
 **L'installation prévue** 
 
 Plan du projet
+
 ![planV2](https://user-images.githubusercontent.com/89608228/157504106-2c2d8853-afc8-4bb7-905f-4a6e6a01a07b.png)
 
 Storyboard (1 à 3)
