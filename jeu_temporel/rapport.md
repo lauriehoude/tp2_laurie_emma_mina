@@ -7,6 +7,8 @@ Le thème du temps exploité dans le projet **Jeu temporel** est exploité à tr
 
 # L'ambiance
 
+Pour ce qui est de l'ambiance de cette installation, elle est très angoissante et stressante pour le visiteur.
+
  # l'installation en cours dans les studios 
 ![image7](https://user-images.githubusercontent.com/89647723/156031826-3fd535ff-5885-4933-ab5d-80344908e679.jpeg)
 
