@@ -1,5 +1,4 @@
-# Titre du projet
-Chronaufrage
+# Chronaufrage
 
 **Réalisé par :** Émilie Fontaine, Maloney Khim, Sounthida Kong, Olivier Lalonde et Rebecca Pilotte
 
