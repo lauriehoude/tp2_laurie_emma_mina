@@ -5,6 +5,8 @@
 **L'installation en cours** 
 
  ![cours](medias/photographies/minutes_installation_cours.png)
+ 
+ *Source : Page du projet 3 minutes*
 
 **L'installation prévue** 
 
@@ -18,9 +20,9 @@
 
 **Comment le thème est-il exploité ?** : Le thème est exploité en comparant deux situations qui durent trois minutes. Malgré qu'elles durent le même temps, notre notion du temps est différente lorsque l'on vit différentes situations.
 
-**L'ambiance :** Il y a un contraste entre une ambiance légère et une ambiance angoissante.
+**L'ambiance :** Il y a un contraste entre une ambiance énergétique et une ambiance angoissante.
 
-**Ce qui est attendu de l'interacteur.trice lors de l'expérience :** 
+**Ce qui est attendu de l'interacteur.trice lors de l'expérience :** L'utilisateur expérience la première situation avec énergie en essayant de jouer au ballon chasseur et lorsque l'on s'amuse, le temps semble s'écouler plus rapidement. Par la suite, en allant dans la deuxième situation étant dans un endroit sombre et clos, l'utilisateur ressent un sentiment d'angoisse ainsi que de malaise.
 
 ---
 
@@ -28,5 +30,5 @@
 
 1. Conception sonore
 2. Réalité virtuelle
-3.
+3. Modélisation 3D
 
