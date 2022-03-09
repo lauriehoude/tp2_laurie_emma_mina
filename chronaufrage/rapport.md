@@ -7,9 +7,15 @@ Chronaufrage
 (insérer une image)
 
 **L'installation prévue** 
-(insérer une image du schéma de l'installation prévu + source)
 
-*Source : (écrire source ici)*
+Plan Technique 
+![plan_technique](https://user-images.githubusercontent.com/89608228/157514826-0b45cd21-13a0-42d1-9744-afbd0c993916.png)
+
+Plan
+![Plan02](https://user-images.githubusercontent.com/89608228/157514897-1a7d75fa-0478-4215-8831-ff43d3f7c834.png)
+
+
+*Source : https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/preproduction.html*
 
 ---
 
