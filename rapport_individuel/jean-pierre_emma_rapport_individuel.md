@@ -6,10 +6,10 @@
 | ----------- | ----------- |
 | 1. Chère Sasha | J'aime bien le fait que des étudiantes exposent les problèmes que les gens de la LGBTQ+ subissent dans leur vie,par leur entourage (ex.:famille). J'aime aussi le fait, que les étudiantes représentent Sasha, la personnage principale, une fois rendue adulte et bien dans sa peau.  |
 | 2. L'horloge de l'apocalypse | Je trouve vraiment intéressant d'être capable de revivre les différentes univers dans lequel notre monde a vécu. De plus, je trouve ça bien de laisser la possibilité à l'interacteur.trice de voyager comme il/elle le désire.  |
-| 3. Chronaufrage |  |
-| 4. Jeu temporel | Je trouve que le concept du Jeu temporel est vraiment intéressante, informer la population des dangers possibles d'aujourd'hui. Puisque les jeunes aiment beaucoup les jeux interactifs je pense que c'est une bonne façon d'informer des choses à propose de notre société et les conséquences qu'elle peut avoir. |
-| 5. 3 minutes |  Le projet semble très original, mais je trouve que l'idée de l'enfant intimidé est un peu répété partout. Cependant, j'aime bien l'idée de mettre des effets sonores relatifs au concept, respiration forte, pensées tristes, pleurs etc... |
-| 6. Distorsion Collective| Je pense qu'il est nécessaire de montrer la réalité du confinement sur un étudiant. Comment l'isolement peut affecter la santé mental de quelqu'un. En plus, j'aime bien que ce projet |
+| 3. Jeu temporel | Je trouve que le concept du Jeu temporel est vraiment intéressante, informer la population des dangers possibles d'aujourd'hui. Puisque les jeunes aiment beaucoup les jeux interactifs je pense que c'est une bonne façon d'informer des choses à propose de notre société et les conséquences qu'elle peut avoir. |
+| 4. Chronaufrage |  |
+| 5. Distorsion Collective| Je pense qu'il est nécessaire de montrer la réalité du confinement sur un étudiant. Comment l'isolement peut affecter la santé mental de quelqu'un. En plus, j'aime bien que ce projet |
+| 6. 3 minutes |  Le projet semble très original, mais je trouve que l'idée de l'enfant intimidé est un peu répété partout. Cependant, j'aime bien l'idée de mettre des effets sonores relatifs au concept, respiration forte, pensées tristes, pleurs etc... |
 
 ##  Ce que je croit ressentir en expériementant chacune des installations
 
