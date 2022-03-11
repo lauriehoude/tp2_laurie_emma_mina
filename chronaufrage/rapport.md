@@ -14,6 +14,10 @@ Schéma branchement
 
 ![schema branchement](medias/photographies/Schema_branchement.png)
 
+Plan
+![Plan](medias/photographies/Plan_2.png)
+
+
 
 *Source : https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/preproduction.html*
 
@@ -22,11 +26,6 @@ Schéma branchement
 
 Plan technique
 ![plan technique](medias/photographies/plan_technique.png)
-
-Plan
-![Plan](medias/photographies/Plan_2.png)
-
-
 
 *Source : https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/preproduction.html*
 
