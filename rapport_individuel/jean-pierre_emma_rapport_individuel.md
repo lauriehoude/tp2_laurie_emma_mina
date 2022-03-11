@@ -24,4 +24,4 @@
 
 ##  Le rôle que je ferait dans un tel projet, lorsque je serai en 3e année, avec justification
 
-J'aimerais m'assurer de la coordination général du projet et du montage vidéo, car sans m'en rendre compte, j'adore m'assurer que tout le monde soit à jour dans leurs listes de tâches à faire et aider les gens. Pour ce qui est de l'aspect vidéo, j'adore faire des montages, créer des films et écrire un scénario. 
+J'aimerais être coordinatrice artistique puisque j'aime bien faire des dessins. De plus, m'occuper de seulement un branche du travail Cela m'aidera davantage étant donné que gérer plusieurs choses et personnes à la fois me stresse beaucoup.
