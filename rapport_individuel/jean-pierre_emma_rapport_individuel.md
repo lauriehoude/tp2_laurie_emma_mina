@@ -4,8 +4,8 @@
 
 | Classement | Justification |
 | ----------- | ----------- |
-| 1. Chère Sasha | J'aime bien le fait que des étudiantes exposent les problèmes que les gens de la LGBTQ+ subissent dans leur vie,par leur entourage (ex.:famille). J'aime aussi le fait, que les étudiantes représentent Sasha, la personnage principale, une fois rendue adulte et bien dans sa peau.  |
-| 2. L'horloge de l'apocalypse | Je trouve vraiment intéressant d'être capable de revivre les différentes moments dans lequel notre monde a vécu. De plus, je trouve ça bien de laisser la possibilité à l'interacteur.trice de voyager comme il/elle le désire.  |
+| 1. Chère Sasha | J'aime bien le fait qu´on expose les problèmes que les gens de la LGBTQ+ subissent dans leur vie par leur entourage (ex.:famille). J'aime aussi le fait, que Sasha, la personnage principale, soit représenté une fois rendue adulte et bien dans sa peau.  |
+| 2. L'horloge de l'apocalypse | Je trouve vraiment intéressant d'être capable de revivre les différentes moments dans lequel notre monde a vécu. De plus, je trouve ça bien de laisser la possibilité à l'interacteur.trice de voyager comme il/elle le désire. |
 | 3. Jeu temporel | Je trouve que le concept du Jeu temporel est vraiment intéressante, informer la population des dangers possibles d'aujourd'hui. Puisque les jeunes aiment beaucoup les jeux interactifs je pense que c'est une bonne façon d'informer des choses à propose de notre société et les conséquences qu'elle peut avoir. |
 | 4. Chronaufrage | Je trouve ça importantant de montrer à quel point la société nous met de la pression, à toujours faire plus encore et encore. C'est important de prendre une pause. |
 | 5. Distorsion Collective| Je pense qu'il est nécessaire de montrer la réalité du confinement sur un étudiant. Comment l'isolement peut affecter la santé mental de quelqu'un. En plus, j'aime bien que ce projet soit d'Actualité|
@@ -17,9 +17,9 @@
 | ----------- | ----------- |
 | Chère Sasha |   Durant l'adolescence de Sasha, je crois me sentirirais mal pour elle, de voir que ses parents ne la supporte point. Cependangt lorsqu'elle sera adulte je serais fière d'elle, elle aura été capable de se sentir bien dans sa peau.  |
 | L'horloge de l'apocalypse| Pour l'horloge de l'apocalyspe, je crois être impressioné par toutes les époques qui ont exité dans l'histoire. Par contre, pour celles dont l'homme est responsable de destruction, je vais ressentir un peu de coupabilité  |
-| Chronaufrage  | Pour chronaufrage, je croit ressentir le stress du personnage étant dnné que les choses vont vites et tu perds un peu la tête. |
-| Jeu temporel |Dans cette installation nous sommes supposé ressentir du stresse, car tu reponds à un questionnaire et évidement tu veux performer. |
-|  3 minutes  | Dans cette installation nous supposé ressentir dans la première partie de réalité virtuel du plaisir et dans la partie dans l'armoire de l'angoisse. |
+| Chronaufrage  | Pour chronaufrage, je crois ressentir le stress du personnage étant donné que les choses vont vites et on perd un peu la tête. |
+| Jeu temporel |Pour le jeu temporel, je crois ressentir encore une fois du stress. C'est un jeu auquel tu veux avoir de bonnes réponses ou sinon ils pourraient y avoir des conséquences graves.|
+|  3 minutes  | Pour le projet 3 minutes, je pense ressentir du stress. |
 | Distortion collective | Dans cette installation je crois ressentir l'isolement et la pression, car dans cette réalité virtuel, nous sommes enfermé chez nous à faire l'école à la maison et faire des nombreux devoirs. |
 
 ##  Le rôle que je ferait dans un tel projet, lorsque je serai en 3e année, avec justification
