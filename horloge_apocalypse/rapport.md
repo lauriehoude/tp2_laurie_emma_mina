@@ -27,10 +27,11 @@ Pour ce qui est de l'ambiance, on voyagent à travers divers ambiance autant dra
 
 **Ce qui est attendu de l'interacteur.trice lors de l'expérience :**
 
----
 Les créateurs désirent faire vivre ou revivre aux spectateurs plusieurs événements tragiques que l'humanité à du faire face au fils des années.
 De plus, ce qui est très intéressant de cette oeuvre, c'est que le visiteur participe directement à l'installation avec l'horloge de l'apocalypse. 
 En effet, l'horloge est programmé à 11 h 58 et il reste deux minutes avant la fin du monde. L'utilisateur va être porté à bouger les aiguilles de l'horloge et la ligne du temps pour changer la projection réprésentant un paysage.  
+
+---
 
 ## Cours incontournables pour créer ce projet
 
