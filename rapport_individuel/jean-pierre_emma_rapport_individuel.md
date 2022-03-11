@@ -1,23 +1,27 @@
+# Emma Jean-Pierre - Rapport individuel
+
+##  Préférence actuelle
+
 | Classement | Justification |
 | ----------- | ----------- |
-| 1. Chère Sasha | Je trouve que c'est vraiment intéressant de pouvoir écouter et d'en apprendre plus sur l'histoire de Sasha en même temps que l'on observe et intéragisse avec les objets de sa chambre. |
-| 2. 3 minutes | Semble très immersif, j'ai envie de tester le jeu de ballon chasseur en réalité visrtuelle et je veux voir si je remarque vraiment une différence dans le temps entre les deux situations. |
-| 3. Chronaufrage | Les illustrations ainsi que les animations semblent vraiment bien fait donc j'ai hâte de voir le résultat final. |
-| 4. Jeu temporel | J'aime l'utilisation de l'espace, car l'on répond au question sur un podium et le tout est projecter sur un grand mur. |
-| 5. L'horloge de l'apocalypse| Ça me fait un peu penser à Immersion Oasis puisqu'on est entouré par des projections sur les murs, mais c'est intéressant que l'on puisse changer les projections en intéragissant avec une grosse horloge. |
-| 6. Distortion collective | Je pense que c'est le sujet de la pandémie qui m'intéresse le moins, mais l'utilisation de la réalité virtuelle pour vivre l'expérience est intéressante. |
+| 1. Chère Sasha | J'aime bien le fait que des étudiantes exposent les problèmes que les gens de la LGBTQ+ subissent dans leur vie,par leur entourage (ex.:famille). J'aime aussi le fait, que les étudiantes représentent Sasha, la personnage principale, une fois rendue adulte et bien dans sa peau.  |
+| 2. L'horloge de l'apocalypse | Je trouve vraiment intéressant d'être capable de revivre les différentes univers dans lequel notre monde a vécu. De plus, je trouve ça bien de laisser la possibilité à l'interacteur.trice de voyager comme il/elle le désire.  |
+| 3. Chronaufrage |  |
+| 4. Jeu temporel | Je trouve que le concept du Jeu temporel est vraiment intéressante, informer la population des dangers possibles d'aujourd'hui. Puisque les jeunes aiment beaucoup les jeux interactifs je pense que c'est une bonne façon d'informer des choses à propose de notre société et les conséquences qu'elle peut avoir. |
+| 5. 3 minutes |  Le projet semble très original, mais je trouve que l'idée de l'enfant intimidé est un peu répété partout. Cependant, j'aime bien l'idée de mettre des effets sonores relatifs au concept, respiration forte, pensées tristes, pleurs etc... |
+| 6. Distorsion Collective| Je pense qu'il est nécessaire de montrer la réalité du confinement sur un étudiant. Comment l'isolement peut affecter la santé mental de quelqu'un. En plus, j'aime bien que ce projet |
 
 ##  Ce que je croit ressentir en expériementant chacune des installations
 
 | Installation | Justification |
 | ----------- | ----------- |
-| Chère Sasha | Je crois que je vais ressentir de l'empathie envers Sasha, car je serai dans sa chambre à intéragir avec ses choses en même temps d'écouter son histoire. |
-| 3 minutes | Je crois que je vais ressentir une différence dans le temps malgré que les deux situations durent le même temps, car ceux-ci nous permet d'expérimenter deux situations complètement opposées. |
-| Jeu temporel | Je crois que je vais ressentir de la pression, car c'est comme si j'étais dans un émission où l'on répond à des questions devant un public. |
-| Chronaufrage | Je crois ressentir un sentiment de contrôle, car si je décide de m'avancer, je vais stresser le personnage dans les tableaux. Au contraire, si je décide de reculer, le personnage se sentira apaisé. |
-| L'horloge de l'apocalypse | Je crois que je vais ressentir un sentiment de danger puisque l'on se rapproche de la fin du monde et grace à la musique et au projection sur les murs je serai immersé dans l'expérience. |
-| Distortion collective | Je crois que je vais ressentir l'isolement que l'étudiant ressent, car je vais pouvoir voir sa perspective grace à la réalité virtuelle. |
+| Chère Sasha | Dans l'installation de Sasha je crois ressentir les mêmes émotions et énergies que la femme ressent, car le fait qu'on ayons un accès privilégier à sa chambre nous donne l'impression d'être avec elle. |
+| L'horloge de l'apocalypse| Dans cette installation nous sommes supposé ressentir de la culpabilité et de la tristesse face à la fin du monde dû à notre innoncence face à la gravité des enjeux que nous traversons en ce moment même |
+| Chronaufrage  | Dans l'installation de chronaufrage, selon moi, tu es supposé ressentir un sentiment d'impuissance, car tu désires aidé la jeune fille, mais tu n'es pas capable.   |
+| Jeu temporel |Dans cette installation nous sommes supposé ressentir du stresse, car tu reponds à un questionnaire et évidement tu veux performer. |
+|  3 minutes  | Dans cette installation nous supposé ressentir dans la première partie de réalité virtuel du plaisir et dans la partie dans l'armoire de l'angoisse. |
+| Distortion collective | Dans cette installation je crois ressentir l'isolement et la pression, car dans cette réalité virtuel, nous sommes enfermé chez nous à faire l'école à la maison et faire des nombreux devoirs. |
 
 ##  Le rôle que je ferait dans un tel projet, lorsque je serai en 3e année, avec justification
 
-J'aimerais m'assurer de la coordination artistique, car j'aime quand un projet final correspond bien au thème choisi et quand celui-ci est visuellement esthétique.
+J'aimerais m'assurer de la coordination général du projet et du montage vidéo, car sans m'en rendre compte, j'adore m'assurer que tout le monde soit à jour dans leurs listes de tâches à faire et aider les gens. Pour ce qui est de l'aspect vidéo, j'adore faire des montages, créer des films et écrire un scénario. 
