@@ -19,8 +19,8 @@
 | L'horloge de l'apocalypse| Pour l'horloge de l'apocalyspe, je crois être impressioné par toutes les époques qui ont exité dans l'histoire. Par contre, pour celles dont l'homme est responsable de destruction, je vais ressentir un peu de coupabilité  |
 | Chronaufrage  | Pour chronaufrage, je crois ressentir le stress du personnage étant donné que les choses vont vites et on perd un peu la tête. |
 | Jeu temporel |Pour le jeu temporel, je crois ressentir encore une fois du stress. C'est un jeu auquel tu veux avoir de bonnes réponses ou sinon ils pourraient y avoir des conséquences graves.|
-|  3 minutes  | Pour le projet 3 minutes, je pense ressentir du stress. |
-| Distortion collective | Dans cette installation je crois ressentir l'isolement et la pression, car dans cette réalité virtuel, nous sommes enfermé chez nous à faire l'école à la maison et faire des nombreux devoirs. |
+|  3 minutes  | Pour le projet 3 minutes, je pense ressentir du stress et un peu de pitié étant donné qu'on va vivre dans la peau d'un enfant intimidé. |
+| Distortion collective | Pour le projet distortion collective, je vais revivre un peu la période du confinement, l'anxiété, les problèmes sociaux et d'écoles.|
 
 ##  Le rôle que je ferait dans un tel projet, lorsque je serai en 3e année, avec justification
 
